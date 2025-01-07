@@ -1,7 +1,0 @@
-** sch_path: /home/evadeltor/SourceFollower.sch
-**.subckt SourceFollower
-M2 VDD Vin1 Vin2 M2N7002 m=1
-M3 Vin2 Vin2 GND M2N7002 m=1
-**.ends
-.GLOBAL GND
-.end

@@ -1,6 +1,0 @@
-** sch_path: /home/evadeltor/XNOR.sch
-**.subckt XNOR
-M2 Ibias VIN1 VIN2 M2N7002 m=1
-M3 Ibias VIN2 VIN1 M2N7002 m=1
-**.ends
-.end

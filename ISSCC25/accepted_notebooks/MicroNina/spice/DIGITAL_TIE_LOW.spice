@@ -1,7 +1,0 @@
-** sch_path: /home/evadeltor/DIGITAL_TIE_LOW.sch
-**.subckt DIGITAL_TIE_LOW
-M1 net1 net1 VDD DMP2035U m=1
-M2 VTIE net1 GND M2N7002 m=1
-**.ends
-.GLOBAL GND
-.end

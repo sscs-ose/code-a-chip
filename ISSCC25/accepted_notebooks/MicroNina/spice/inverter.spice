@@ -1,7 +1,0 @@
-** sch_path: /home/evadeltor/Documents/SSCS/sch/inverter.sch
-**.subckt inverter
-M1 VOUT VIN VDD DMP2035U m=1
-M2 VOUT VIN GND M2N7002 m=1
-**.ends
-.GLOBAL GND
-.end

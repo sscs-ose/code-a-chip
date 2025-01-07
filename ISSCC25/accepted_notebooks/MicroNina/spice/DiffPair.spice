@@ -1,6 +1,0 @@
-** sch_path: /home/evadeltor/DiffPair.sch
-**.subckt DiffPair
-M2 Ibias Vin1 Ibias M2N7002 m=1
-M3 Iout Vin2 Ibias M2N7002 m=1
-**.ends
-.end

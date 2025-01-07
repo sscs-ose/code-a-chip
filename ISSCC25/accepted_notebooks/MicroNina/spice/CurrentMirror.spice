@@ -1,7 +1,0 @@
-** sch_path: /home/evadeltor/CurrentMirror.sch
-**.subckt CurrentMirror
-M2 Iout Ibias GND M2N7002 m=1
-M3 Ibias Ibias GND M2N7002 m=1
-**.ends
-.GLOBAL GND
-.end
